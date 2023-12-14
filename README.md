@@ -3,7 +3,7 @@
       This s simple command line implementation of personality analysis.
   ## Instructions
   
-      *  Run the program in a C compiler or IDE.
+      - Run the program in a C compiler or IDE.
       - Follow the on screen instruction to analyse a personality.
   ## Analysis
   
