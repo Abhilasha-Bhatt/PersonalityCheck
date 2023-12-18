@@ -6,8 +6,8 @@ This s simple command line implementation of personality analysis.
   
 - Run the program in a C compiler or IDE.
 - Follow the on screen instruction to analyse a personality.
-- 
-  ## Analysis
+
+## Analysis
   
   In this Personality analysis a person needs to give appropriate number(option) as 
   input to the given question on console.
@@ -44,8 +44,8 @@ What is the word people would most likely describe you?
 
 ## Files
 
-- Person_check.c: Contains the source code for personality analysis.
-- README.md: This file, provding information about the project.
+- `Person_check.c`: Contains the source code for personality analysis.
+- `README.md`: This file, provding information about the project.
 
 ## Author
 
