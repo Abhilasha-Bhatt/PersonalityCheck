@@ -46,7 +46,7 @@ What is the word people would most likely describe you?
 ## Author
 - Abhilasha
 - Gmail: abhilashabhatt77@gmail.com
-- Github: https://github.com/Abhilasha-Bhatt
+- Github: [Click here](https://github.com/Abhilasha-Bhatt)
 - HackerRank
 
 ## Contribution
