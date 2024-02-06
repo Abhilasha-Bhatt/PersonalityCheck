@@ -10,7 +10,7 @@ according to the answer provided the personality analysis will be shared.
 int main()
 {
     int ans[4],n;
-        snippet:
+        do
         {
         printf("\nEnter the appropriate number as per given option\n\n");
         printf("A ritual that keeps you calm\n\n1. TALK TO FRIEND\t2. SPORTS\t3. WORK\n");
@@ -43,7 +43,6 @@ int main()
         printf("Enter 1 to continue and 0 to stop\n");
         scanf("%i",&n);
     }
-    if(n)
-    goto snippet;
+    while(n);
     printf("\n~~~~~~~~~THANK YOU!!~~~~~~~~~~");
 }
