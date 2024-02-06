@@ -22,11 +22,11 @@ int main()
         printf("\nWhat is the word people would most likely describe you?\n\n1. SMART\t2. KIND\t3. QUIET\n");
         scanf("%i",&ans[3]);
         if(ans[0]==1)
-        printf(":-D  You find solace and comfort in social connections.You priortize relationships.\n");
+        printf("\n:-D  You find solace and comfort in social connections.You priortize relationships.\n");
         else if (ans[0]==2)
-        printf(":-D  You possibly enjoy teamwork.\n");
+        printf("\n:-D  You possibly enjoy teamwork.\n");
         else
-        printf(":-D  You are diligent and find satisfaction in productivity.\n");
+        printf("\n:-D  You are diligent and find satisfaction in productivity.\n");
         if(ans[1]==1)
         printf(":O  You priortize mutual support.\n");
         else if(ans[1]==2)
