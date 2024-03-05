@@ -1,6 +1,6 @@
 # PersonalityCheck
 
-This s simple command line implementation of personality analysis.
+This is simple command line implementation of personality analysis.
 
   ## Instructions
   
@@ -55,7 +55,7 @@ What is the word people would most likely describe you?
 
 - Gmail: abhilashabhatt77@gmail.com
 - Github: [Click here](https://github.com/Abhilasha-Bhatt)
-- LinkedIn: [Click here](https://www.linkedin/in/abhilasha-bhatt-37a38128)
+- LinkedIn: [Click here](https://www.linkedin.com/in/abhilasha-bhatt3)
 
 ## Contribution
 
