@@ -46,7 +46,9 @@ What is the word people would most likely describe you?
 
 - `Person_check.c`: Contains the source code for personality analysis.
 - `README.md`: This file, provding information about the project.
-
+  
+## Download the file
+<a href="https://raw.githubusercontent.com/Abhilasha-Bhatt/PersonalityCheck/main/Person_Check.c" download="Person_Check.c">Click here to download</a>
 ## Author
 
 - Abhilasha
