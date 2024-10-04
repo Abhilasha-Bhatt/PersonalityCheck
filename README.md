@@ -2,8 +2,9 @@
 
 This is simple command line implementation of personality analysis.
 
-  ## Instructions
-  
+  ## Instruction
+- Open the link given in *Download the file* section.
+- Download `a.exe` to run the program or zip folder to get c file.
 - Run the program in a C compiler or IDE.
 - Follow the on screen instruction to analyse a personality.
 
