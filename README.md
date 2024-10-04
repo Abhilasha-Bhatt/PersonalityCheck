@@ -49,17 +49,18 @@ What is the word people would most likely describe you?
   
 ## Download the file
 <a href="https://raw.githubusercontent.com/Abhilasha-Bhatt/PersonalityCheck/main/Person_Check.c" download="Person_Check.c">Click here to download</a>
-## Author
+## Credits
+Created by [![ABHILASHA](https://img.shields.io/badge/ABHILASHA-Profile-blue?style=for-the-badge)](https://www.linkedin.com/in/abhilasha-bhatt3/)
 
-- Abhilasha
-  
 ## Contacts
 
-- Gmail: abhilashabhatt77@gmail.com
-- Github: [Click here](https://github.com/Abhilasha-Bhatt)
-- LinkedIn: [Click here](https://www.linkedin.com/in/abhilasha-bhatt3)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abhilashabhatt77@gmail.com)
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abhilasha-bhatt3/)
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Abhilasha-Bhatt)
 
 ## Contribution
-
 Feel free to contribute to this project by submitting pull requests.
 
