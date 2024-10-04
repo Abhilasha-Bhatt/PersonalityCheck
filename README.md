@@ -48,7 +48,7 @@ What is the word people would most likely describe you?
 - `README.md`: This file, provding information about the project.
   
 ## Download the file
-<a href="https://raw.githubusercontent.com/Abhilasha-Bhatt/PersonalityCheck/main/Person_Check.c" download="Person_Check.c">Click here to download</a>
+<a href="https://github.com/Abhilasha-Bhatt/PersonalityCheck/releases/tag/Try" download="Person_Check.c">Click here to download</a>
 ## Credits
 Created by [![ABHILASHA](https://img.shields.io/badge/ABHILASHA-Profile-blue?style=for-the-badge)](https://www.linkedin.com/in/abhilasha-bhatt3/)
 
